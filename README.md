@@ -1,2 +1,3 @@
-# recoil-todo
-recoil-todo
+# recoil TO-DO
+
+Recoil, react-hook-form 사용
